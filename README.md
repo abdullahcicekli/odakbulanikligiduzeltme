@@ -25,4 +25,11 @@ Yukarıdaki resimde 10-20 arasındaki değerleri kodumuza hesaplattıktan sonra 
 
 ![Düzeltilmiş Resim 11 2 yarıçap ile ve 17 yumuşatma ile ](https://user-images.githubusercontent.com/48344066/76457094-3111c780-63e9-11ea-886d-15db92a6e98a.png)
 
+# İletişim
+
+Mail - abdulahcicekli@gmail.com / 170509051@firat.edu.tr
+
+LinkedIn - https://www.linkedin.com/in/cicekliabdullah/
+
+Instagram - https://www.instagram.com/cicekli_abdullah/?hl=tr
 
